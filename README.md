@@ -1,1 +1,1 @@
-# rl-trading-bot
+# Reinforcement Learning for Trading
